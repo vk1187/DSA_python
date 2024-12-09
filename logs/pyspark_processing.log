@@ -1,0 +1,26 @@
+2024-12-09 12:41:10,848 INFO: Starting PySpark CSV processing script
+2024-12-09 12:41:17,688 INFO: Number of CSV files read: 3012
+2024-12-09 12:41:18,014 INFO: Number of records after filtering: 1527
+2024-12-09 12:41:18,425 INFO: Processed data saved to ../data/output/
+2024-12-09 12:41:18,795 INFO: PySpark CSV processing script completed
+2024-12-09 12:41:18,796 INFO: Closing down clientserver connection
+2024-12-09 12:42:12,974 INFO: Starting PySpark CSV processing script
+2024-12-09 12:42:19,858 INFO: Number of CSV files read: 3012
+2024-12-09 12:42:20,188 INFO: Number of records after filtering: 1527
+2024-12-09 12:42:20,576 INFO: Processed data saved to ../data/output/
+2024-12-09 12:42:20,986 INFO: PySpark CSV processing script completed
+2024-12-09 12:42:20,986 INFO: Closing down clientserver connection
+2024-12-09 12:43:14,667 INFO: Starting PySpark CSV processing script
+2024-12-09 12:43:22,216 INFO: Number of CSV files read: 3012
+2024-12-09 12:43:22,557 INFO: Number of records after filtering: 1527
+2024-12-09 12:43:22,972 INFO: Processed data saved to ../data/output/
+2024-12-09 12:43:23,450 INFO: Execution time: 8.78288745880127 seconds
+2024-12-09 12:43:23,450 INFO: PySpark CSV processing script completed
+2024-12-09 12:43:23,451 INFO: Closing down clientserver connection
+2024-12-09 12:46:07,389 INFO: Starting PySpark CSV processing script
+2024-12-09 12:46:14,204 INFO: Number of CSV files read: 3012
+2024-12-09 12:46:14,570 INFO: Number of records after filtering: 1527
+2024-12-09 12:46:14,983 INFO: Processed data saved to ../data/output/
+2024-12-09 12:46:15,493 INFO: Execution time: 8.10402774810791 seconds
+2024-12-09 12:46:15,493 INFO: PySpark CSV processing script completed
+2024-12-09 12:46:15,494 INFO: Closing down clientserver connection

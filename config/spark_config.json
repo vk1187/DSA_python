@@ -1,0 +1,9 @@
+  {
+    "appName": "CSV Processing with PySpark",
+    "master": "local[*]",
+    "spark.executor.instances": 6,
+    "spark.executor.cores": 4,
+    "spark.cores.max": 16,
+    "spark.executor.memory": "8g",
+    "spark.driver.memory": "4g"
+}
